@@ -1,0 +1,1 @@
+import{o,c as n,a as t,w as a,d as r,r as e}from"./vendor.1ba5d04c.js";const d={},l=t("h1",null,"Not Found",-1),s=r(" Oops, we couldn't find that page. Try going "),u=r("home");d.render=function(r,d){const c=e("router-link");return o(),n("div",null,[l,t("p",null,[s,t(c,{to:"/"},{default:a((()=>[u])),_:1})])])};export default d;
